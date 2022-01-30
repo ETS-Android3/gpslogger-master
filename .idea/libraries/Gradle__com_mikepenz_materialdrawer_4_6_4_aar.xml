@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mikepenz:materialdrawer:4.6.4@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/5cb2aa5b4f3c786a053b20e3e125415e/transformed/jetified-materialdrawer-4.6.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5cb2aa5b4f3c786a053b20e3e125415e/transformed/jetified-materialdrawer-4.6.4/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5cb2aa5b4f3c786a053b20e3e125415e/transformed/jetified-materialdrawer-4.6.4/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/811c415c4376fb12e46a950326ecb6d7/transformed/jetified-materialdrawer-4.6.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/811c415c4376fb12e46a950326ecb6d7/transformed/jetified-materialdrawer-4.6.4/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/811c415c4376fb12e46a950326ecb6d7/transformed/jetified-materialdrawer-4.6.4/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/470e4c4c2b362aa47f03529d02c85cdc/transformed/jetified-materialdrawer-4.6.4/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/470e4c4c2b362aa47f03529d02c85cdc/transformed/jetified-materialdrawer-4.6.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/470e4c4c2b362aa47f03529d02c85cdc/transformed/jetified-materialdrawer-4.6.4/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mikepenz/materialdrawer/4.6.4/d688389f8d16e1c5cb2142bbbe49c1db4f3f049f/materialdrawer-4.6.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mikepenz/materialdrawer/4.6.4/c3418027eaa7f6ce961c9d785fae1bd6b2ede18f/materialdrawer-4.6.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

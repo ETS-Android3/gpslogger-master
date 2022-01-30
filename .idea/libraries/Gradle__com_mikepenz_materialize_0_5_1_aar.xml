@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mikepenz:materialize:0.5.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/e76e7d064e4d3fa75628b1706a5f26c9/transformed/jetified-materialize-0.5.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e76e7d064e4d3fa75628b1706a5f26c9/transformed/jetified-materialize-0.5.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e76e7d064e4d3fa75628b1706a5f26c9/transformed/jetified-materialize-0.5.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/602cdd28cdcf25f7bb0a3e62b2145157/transformed/jetified-materialize-0.5.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/602cdd28cdcf25f7bb0a3e62b2145157/transformed/jetified-materialize-0.5.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/602cdd28cdcf25f7bb0a3e62b2145157/transformed/jetified-materialize-0.5.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/4cd30c1ca9f044db1f69de990b7fa6b1/transformed/jetified-materialize-0.5.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/4cd30c1ca9f044db1f69de990b7fa6b1/transformed/jetified-materialize-0.5.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/4cd30c1ca9f044db1f69de990b7fa6b1/transformed/jetified-materialize-0.5.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mikepenz/materialize/0.5.1/e1530f01a82653912e59d73e20c8aa496af3b3ba/materialize-0.5.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mikepenz/materialize/0.5.1/8ac90ff435097035103c7f8e4d52be47a4053380/materialize-0.5.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Lion/Desktop/gpslogger-master/gpslogger/src/main/res/layout/activity_faq.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Lion/Desktop/gpslogger-master/gpslogger/src/main/res/layout/activity_faq_list_item.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Lion/Desktop/gpslogger-master/gpslogger/src/main/res/layout/activity_gps_main.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Lion/Desktop/gpslogger-master/gpslogger/src/main/res/layout/activity_preferences.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Lion/Desktop/gpslogger-master/gpslogger/src/main/res/layout/fragment_big_view.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Lion/Desktop/gpslogger-master/gpslogger/src/main/res/layout/fragment_detailed_view.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Lion/Desktop/gpslogger-master/gpslogger/src/main/res/layout/fragment_log_view.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Lion/Desktop/gpslogger-master/gpslogger/src/main/res/layout/fragment_simple_view.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Lion/Desktop/gpslogger-master/gpslogger/src/main/res/layout/smaller_header.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Lion/Desktop/gpslogger-master/gpslogger/src/main/res/layout/spinner_dropdown_item.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Lion/Desktop/gpslogger-master/gpslogger/src/main/res/layout/toolbar.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Lion/Desktop/gpslogger-master/gpslogger/src/main/res/menu/gps_main.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Lion/Desktop/gpslogger-master/gpslogger/src/main/res/xml/autoemailsettings.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Lion/Desktop/gpslogger-master/gpslogger/src/main/res/xml/autoftpsettings.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Lion/Desktop/gpslogger-master/gpslogger/src/main/res/xml/dropboxsettings.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Lion/Desktop/raja/gpslogger-master/gpslogger/src/main/res/layout/activity_gps_main.xml" value="0.28306159420289856" />
+        <entry key="..\:/Users/pc2/Desktop/gpslogger-master/gpslogger/src/main/res/layout/activity_faq.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/pc2/Desktop/gpslogger-master/gpslogger/src/main/res/layout/activity_faq_list_item.xml" value="0.2033514492753623" />
+        <entry key="..\:/Users/pc2/Desktop/gpslogger-master/gpslogger/src/main/res/layout/activity_gps_main.xml" value="0.2033514492753623" />
+        <entry key="..\:/Users/pc2/Desktop/gpslogger-master/gpslogger/src/main/res/layout/activity_preferences.xml" value="0.2033514492753623" />
+        <entry key="..\:/Users/pc2/Desktop/gpslogger-master/gpslogger/src/main/res/layout/custom_dialog.xml" value="0.1875" />
+        <entry key="..\:/Users/pc2/Desktop/gpslogger-master/gpslogger/src/main/res/layout/fragment_big_view.xml" value="0.2033514492753623" />
+        <entry key="..\:/Users/pc2/Desktop/gpslogger-master/gpslogger/src/main/res/layout/fragment_detailed_view.xml" value="0.15" />
+        <entry key="..\:/Users/pc2/Desktop/gpslogger-master/gpslogger/src/main/res/layout/fragment_log_view.xml" value="0.1875" />
+        <entry key="..\:/Users/pc2/Desktop/gpslogger-master/gpslogger/src/main/res/layout/fragment_simple_view.xml" value="0.22" />
+        <entry key="..\:/Users/pc2/Desktop/gpslogger-master/gpslogger/src/main/res/layout/toolbar.xml" value="0.1" />
+        <entry key="..\:/Users/pc2/Desktop/log home/gpslogger-master/gpslogger/src/main/res/layout/fragment_detailed_view.xml" value="0.18" />
+        <entry key="..\:/Users/pc2/Desktop/log home/gpslogger-master/gpslogger/src/main/res/layout/fragment_simple_view.xml" value="0.22" />
+        <entry key="..\:/Users/pc2/Desktop/log home/gpslogger-master/gpslogger/src/main/res/menu/gps_main.xml" value="0.22" />
+        <entry key="..\:/Users/pc2/Desktop/log home/gpslogger-master/gpslogger/src/main/res/xml/autoemailsettings.xml" value="0.22" />
+        <entry key="..\:/Users/pc2/Desktop/log home/gpslogger-master/gpslogger/src/main/res/xml/autoftpsettings.xml" value="0.1" />
+        <entry key="..\:/Users/pc2/Desktop/log home/gpslogger-master/gpslogger/src/main/res/xml/customurlsettings.xml" value="0.22" />
+        <entry key="..\:/Users/pc2/Desktop/log home/gpslogger-master/gpslogger/src/main/res/xml/sftpsettings.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

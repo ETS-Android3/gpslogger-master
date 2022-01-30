@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.mwiede:jsch:0.1.67">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.mwiede/jsch/0.1.67/fdf8ef885c668b2f255418aec3b7e0f1c6e50d98/jsch-0.1.67.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.mwiede/jsch/0.1.67/514f28b9d5fc7184d731d07b47fcec43390d26ed/jsch-0.1.67-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.mwiede/jsch/0.1.67/8c051d009eee3709668b73f00c8a6dadcbc5396f/jsch-0.1.67-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

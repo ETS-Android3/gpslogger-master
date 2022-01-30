@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.amulyakhare:TextDrawable:558677ea31@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/89e122724a375abf55e536b048b57ab6/transformed/jetified-TextDrawable-558677ea31/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/89e122724a375abf55e536b048b57ab6/transformed/jetified-TextDrawable-558677ea31/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/89e122724a375abf55e536b048b57ab6/transformed/jetified-TextDrawable-558677ea31/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.amulyakhare/TextDrawable/558677ea31/d6a1ca37d19b39228f55d6a096195e888b2ae8ab/TextDrawable-558677ea31-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

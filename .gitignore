@@ -1,0 +1,4 @@
+# Project exclude paths
+/.gradle/
+/gpslogger/build/
+/gpslogger/build/intermediates/javac/debug/classes/

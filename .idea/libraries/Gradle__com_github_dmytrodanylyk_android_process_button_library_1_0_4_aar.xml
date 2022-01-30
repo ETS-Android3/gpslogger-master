@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.dmytrodanylyk.android-process-button:library:1.0.4@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/51a24b71ee99157110fb2cf12587a3b4/transformed/jetified-library-1.0.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/51a24b71ee99157110fb2cf12587a3b4/transformed/jetified-library-1.0.4/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/51a24b71ee99157110fb2cf12587a3b4/transformed/jetified-library-1.0.4/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/370806932de0a1059491f6fe81f7b164/transformed/jetified-library-1.0.4/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/370806932de0a1059491f6fe81f7b164/transformed/jetified-library-1.0.4/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/370806932de0a1059491f6fe81f7b164/transformed/jetified-library-1.0.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/50097ddf87a363eb7033856677a38af3/transformed/jetified-library-1.0.4/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/50097ddf87a363eb7033856677a38af3/transformed/jetified-library-1.0.4/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/50097ddf87a363eb7033856677a38af3/transformed/jetified-library-1.0.4/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.dmytrodanylyk.android-process-button/library/1.0.4/147ca9d933a6c3d42c56c2d51cec10efd2a6909b/library-1.0.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.dmytrodanylyk.android-process-button/library/1.0.4/151d2a8951c2943c51fd729caa404da4e0afa655/library-1.0.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

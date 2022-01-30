@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.mendhak:storage-chooser:2.0.4.4b@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/588177623387ee4ef6e887d48f7f28dc/transformed/jetified-storage-chooser-2.0.4.4b/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/588177623387ee4ef6e887d48f7f28dc/transformed/jetified-storage-chooser-2.0.4.4b/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/588177623387ee4ef6e887d48f7f28dc/transformed/jetified-storage-chooser-2.0.4.4b/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.mendhak/storage-chooser/2.0.4.4b/ce54c2d3f79e980b559da76311612d101ebbdeb8/storage-chooser-2.0.4.4b-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.mendhak/storage-chooser/2.0.4.4b/ea35bf17850d3c31e63a7a4260fce02f8713ca40/storage-chooser-2.0.4.4b-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

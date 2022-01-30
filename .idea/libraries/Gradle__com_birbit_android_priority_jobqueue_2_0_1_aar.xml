@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="Gradle: com.birbit:android-priority-jobqueue:2.0.1@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/70a5cb9552e21c23a7249bd6d34e3027/transformed/jetified-android-priority-jobqueue-2.0.1/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/e0bf3bac70525b69e2720332ddf11bab/transformed/jetified-android-priority-jobqueue-2.0.1/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/c6c00be9acc0ae3dcb6711523ca51847/transformed/jetified-android-priority-jobqueue-2.0.1/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/70a5cb9552e21c23a7249bd6d34e3027/transformed/jetified-android-priority-jobqueue-2.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/70a5cb9552e21c23a7249bd6d34e3027/transformed/jetified-android-priority-jobqueue-2.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/70a5cb9552e21c23a7249bd6d34e3027/transformed/jetified-android-priority-jobqueue-2.0.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e0bf3bac70525b69e2720332ddf11bab/transformed/jetified-android-priority-jobqueue-2.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b1c6f141707e9d3d7d6a2fa0e27b6991/transformed/android-priority-jobqueue-2.0.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/e0bf3bac70525b69e2720332ddf11bab/transformed/jetified-android-priority-jobqueue-2.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e0bf3bac70525b69e2720332ddf11bab/transformed/jetified-android-priority-jobqueue-2.0.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c6c00be9acc0ae3dcb6711523ca51847/transformed/jetified-android-priority-jobqueue-2.0.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/c6c00be9acc0ae3dcb6711523ca51847/transformed/jetified-android-priority-jobqueue-2.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c6c00be9acc0ae3dcb6711523ca51847/transformed/jetified-android-priority-jobqueue-2.0.1/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.birbit/android-priority-jobqueue/2.0.1/97845a0afde3a831e7a1c22c53f86b642dc36007/android-priority-jobqueue-2.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.birbit/android-priority-jobqueue/2.0.1/53aba3fd974a5c2646f961b7d4d7a95f6f9330e6/android-priority-jobqueue-2.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
